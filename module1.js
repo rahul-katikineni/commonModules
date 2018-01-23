@@ -1,2 +1,2 @@
 //sample code
-var a = test
+var a = "test"
